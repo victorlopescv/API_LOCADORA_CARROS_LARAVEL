@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\Storage;
 use App\Models\Modelo;
 use Illuminate\Http\Request;
+use App\Repositories\ModeloRepository;
 
 class ModeloController extends Controller
 {
@@ -29,37 +30,26 @@ class ModeloController extends Controller
 
     public function index(Request $request)
     {
-        $modelos = [];
-
-         //verificando se existe parametro 'atributos' e formatando a query
-         if($request->has('atributos')){
-            $atributos = $request->atributos;
-            $modelos = $this->modelo->selectRaw($atributos); //quando realizamos a consulta sem usar all() ou get() ele nos retorna uma build que nos permite continuar manuzeando a query
-        }else{
-            $modelos = $this->modelos;
-        }
-
-        //verificando se existe parametro 'filtro' para realizar pesquisas especificas e formatando a query
-        if ($request->has('filtro')) {
-
-            $filtro = explode(';', $request->filtro);
-            
-            foreach ($filtro as $key => $condicao) {
-                
-                $c = explode('@', $condicao);
-                $modelos = $modelos->where($c[0], $c[1], $c[2]);
-            }                       
-        }
-
-        //verificando se existe parametro 'atributos_marca' e formatando a query e utilizando get() para consultar
+        $modeloRepository = new ModeloRepository($this->modelo);
+        //verificando se existe parametro 'atributos_modelo' e formatando a query e utilizando get() para consultar
         if ($request->has('atributos_marca')) {
-            $atributos_marca = $request->atributos_marca;
-            $modelos = $modelos->with('marca:id,'.$atributos_marca)->get();
+            $atributos_marca = 'marca:id,'. $request->atributos_marca;
+            $modeloRepository->selectAtributosRegistrosRelacionados($atributos_marca);
         }else{
-            $modelos = $modelos->with('marca')->get();
+            $modeloRepository->selectAtributosRegistrosRelacionados('marca');
         }
+        //verificando se existe parametro 'filtro' para realizar pesquisas especificas e formatando a query
+        if ($request->has('filtro')){
 
-        return response()->json($modelos, 200);
+            $modeloRepository->filtro($request->filtro);
+                                 
+        }        
+        //verificando se existe parametro 'atributos' e formatando a query
+        if($request->has('atributos')){            
+            $atributos = $request->atributos;
+            $modeloRepository->selectAtributos($atributos);            
+        }
+        return response()->json($modeloRepository->getResultado(), 200);
    }
 
         /**

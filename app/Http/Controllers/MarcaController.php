@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\Storage;
 use App\Models\Marca;
 use Illuminate\Http\Request;
-
+use App\Repositories\MarcaRepository;
 
 class MarcaController extends Controller
 {
@@ -21,40 +21,34 @@ class MarcaController extends Controller
      */
     public function index(Request $request)
     {
-        $marcas = array();
 
-        //verificando se existe parametro 'atributos' e formatando a query
-        if($request->has('atributos')){
-            $atributos = $request->atributos;
-            $marcas = $this->marca->selectRaw($atributos); //quando realizamos a consulta sem usar all() ou get() ele nos retorna uma build que nos permite continuar manuzeando a query
-        }else{
-            $marcas = $this->marca;
-        }
-
-        //verificando se existe parametro 'filtro' para realizar pesquisas especificas e formatando a query
-        if ($request->has('filtro')) {
-
-            $filtro = explode(';', $request->filtro);
-            
-            foreach ($filtro as $key => $condicao) {
-                $c = explode('@', $condicao);
-                $marcas = $marcas->where($c[0], $c[1], $c[2]);
-            }                       
-        }
+        $marcaRepository = new MarcaRepository($this->marca);
 
         //verificando se existe parametro 'atributos_modelo' e formatando a query e utilizando get() para consultar
         if ($request->has('atributos_modelo')) {
-            $atributos_modelo = $request->atributos_modelo;
-            $marcas = $marcas->with('modelos:marca_id,'.$atributos_modelo)->get();
+            $atributos_modelo = 'modelos:marca_id,'. $request->atributos_modelo;
+            $marcaRepository->selectAtributosRegistrosRelacionados($atributos_modelo);
         }else{
-            $marcas = $marcas->with('modelos')->get();
+            $marcaRepository->selectAtributosRegistrosRelacionados('modelos');
         }
 
-        return response()->json($marcas, 200);
+        //verificando se existe parametro 'filtro' para realizar pesquisas especificas e formatando a query
+        if ($request->has('filtro')){
+
+            $marcaRepository->filtro($request->filtro);
+                                 
+        }
+        
+        //verificando se existe parametro 'atributos' e formatando a query
+        if($request->has('atributos')){            
+            $atributos = $request->atributos;
+            $marcaRepository->selectAtributos($atributos);
+            
+        }
+        return response()->json($marcaRepository->getResultado(), 200);
     }
 
-
-    /**
+      /**
      * Store a newly created resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
