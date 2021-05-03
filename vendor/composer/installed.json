@@ -57,7 +57,7 @@
                 "issues": "https://github.com/asm89/stack-cors/issues",
                 "source": "https://github.com/asm89/stack-cors/tree/v2.0.3"
             },
-            "install-path": "../asm89/stack-cors"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/asm89/stack-cors"
         },
         {
             "name": "brick/math",
@@ -116,7 +116,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../brick/math"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/brick/math"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -156,7 +156,7 @@
                 "issues": "https://github.com/dnoegel/php-xdg-base-dir/issues",
                 "source": "https://github.com/dnoegel/php-xdg-base-dir/tree/v0.1.1"
             },
-            "install-path": "../dnoegel/php-xdg-base-dir"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/dnoegel/php-xdg-base-dir"
         },
         {
             "name": "doctrine/inflector",
@@ -254,7 +254,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../doctrine/inflector"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/doctrine/inflector"
         },
         {
             "name": "doctrine/instantiator",
@@ -326,7 +326,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../doctrine/instantiator"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/doctrine/instantiator"
         },
         {
             "name": "doctrine/lexer",
@@ -409,7 +409,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../doctrine/lexer"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/doctrine/lexer"
         },
         {
             "name": "dragonmantank/cron-expression",
@@ -473,7 +473,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../dragonmantank/cron-expression"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/dragonmantank/cron-expression"
         },
         {
             "name": "egulias/email-validator",
@@ -544,7 +544,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../egulias/email-validator"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/egulias/email-validator"
         },
         {
             "name": "facade/flare-client-php",
@@ -612,7 +612,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../facade/flare-client-php"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/facade/flare-client-php"
         },
         {
             "name": "facade/ignition",
@@ -692,7 +692,7 @@
                 "issues": "https://github.com/facade/ignition/issues",
                 "source": "https://github.com/facade/ignition"
             },
-            "install-path": "../facade/ignition"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/facade/ignition"
         },
         {
             "name": "facade/ignition-contracts",
@@ -748,7 +748,7 @@
                 "issues": "https://github.com/facade/ignition-contracts/issues",
                 "source": "https://github.com/facade/ignition-contracts/tree/1.0.2"
             },
-            "install-path": "../facade/ignition-contracts"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/facade/ignition-contracts"
         },
         {
             "name": "fakerphp/faker",
@@ -816,7 +816,7 @@
                 "issues": "https://github.com/FakerPHP/Faker/issues",
                 "source": "https://github.com/FakerPHP/Faker/tree/v.1.14.1"
             },
-            "install-path": "../fakerphp/faker"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/fakerphp/faker"
         },
         {
             "name": "fideloper/proxy",
@@ -877,7 +877,7 @@
                 "issues": "https://github.com/fideloper/TrustedProxy/issues",
                 "source": "https://github.com/fideloper/TrustedProxy/tree/4.4.1"
             },
-            "install-path": "../fideloper/proxy"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/fideloper/proxy"
         },
         {
             "name": "filp/whoops",
@@ -951,7 +951,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../filp/whoops"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/filp/whoops"
         },
         {
             "name": "fruitcake/laravel-cors",
@@ -1031,7 +1031,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../fruitcake/laravel-cors"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/fruitcake/laravel-cors"
         },
         {
             "name": "graham-campbell/result-type",
@@ -1100,7 +1100,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../graham-campbell/result-type"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/graham-campbell/result-type"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -1206,7 +1206,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../guzzlehttp/guzzle"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/guzzlehttp/guzzle"
         },
         {
             "name": "guzzlehttp/promises",
@@ -1264,7 +1264,7 @@
                 "issues": "https://github.com/guzzle/promises/issues",
                 "source": "https://github.com/guzzle/promises/tree/1.4.1"
             },
-            "install-path": "../guzzlehttp/promises"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/guzzlehttp/promises"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -1342,7 +1342,7 @@
                 "issues": "https://github.com/guzzle/psr7/issues",
                 "source": "https://github.com/guzzle/psr7/tree/1.8.1"
             },
-            "install-path": "../guzzlehttp/psr7"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/guzzlehttp/psr7"
         },
         {
             "name": "hamcrest/hamcrest-php",
@@ -1396,7 +1396,7 @@
                 "issues": "https://github.com/hamcrest/hamcrest-php/issues",
                 "source": "https://github.com/hamcrest/hamcrest-php/tree/v2.0.1"
             },
-            "install-path": "../hamcrest/hamcrest-php"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/hamcrest/hamcrest-php"
         },
         {
             "name": "laravel/framework",
@@ -1567,7 +1567,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "install-path": "../laravel/framework"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/laravel/framework"
         },
         {
             "name": "laravel/sail",
@@ -1630,7 +1630,7 @@
                 "issues": "https://github.com/laravel/sail/issues",
                 "source": "https://github.com/laravel/sail"
             },
-            "install-path": "../laravel/sail"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/laravel/sail"
         },
         {
             "name": "laravel/tinker",
@@ -1701,7 +1701,72 @@
                 "issues": "https://github.com/laravel/tinker/issues",
                 "source": "https://github.com/laravel/tinker/tree/v2.6.1"
             },
-            "install-path": "../laravel/tinker"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/laravel/tinker"
+        },
+        {
+            "name": "lcobucci/jwt",
+            "version": "3.2.5",
+            "version_normalized": "3.2.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lcobucci/jwt.git",
+                "reference": "82be04b4753f8b7693b62852b7eab30f97524f9b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lcobucci/jwt/zipball/82be04b4753f8b7693b62852b7eab30f97524f9b",
+                "reference": "82be04b4753f8b7693b62852b7eab30f97524f9b",
+                "shasum": ""
+            },
+            "require": {
+                "ext-openssl": "*",
+                "php": ">=5.5"
+            },
+            "require-dev": {
+                "mdanter/ecc": "~0.3.1",
+                "mikey179/vfsstream": "~1.5",
+                "phpmd/phpmd": "~2.2",
+                "phpunit/php-invoker": "~1.1",
+                "phpunit/phpunit": "~4.5",
+                "squizlabs/php_codesniffer": "~2.3"
+            },
+            "suggest": {
+                "mdanter/ecc": "Required to use Elliptic Curves based algorithms."
+            },
+            "time": "2018-11-11T12:22:26+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.1-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Lcobucci\\JWT\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Luís Otávio Cobucci Oblonczyk",
+                    "email": "lcobucci@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A simple library to work with JSON Web Token and JSON Web Signature",
+            "keywords": [
+                "JWS",
+                "jwt"
+            ],
+            "support": {
+                "issues": "https://github.com/lcobucci/jwt/issues",
+                "source": "https://github.com/lcobucci/jwt/tree/3.2"
+            },
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/lcobucci/jwt"
         },
         {
             "name": "league/commonmark",
@@ -1805,7 +1870,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../league/commonmark"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/league/commonmark"
         },
         {
             "name": "league/flysystem",
@@ -1903,7 +1968,7 @@
                     "type": "other"
                 }
             ],
-            "install-path": "../league/flysystem"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/league/flysystem"
         },
         {
             "name": "league/mime-type-detection",
@@ -1962,7 +2027,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../league/mime-type-detection"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/league/mime-type-detection"
         },
         {
             "name": "mockery/mockery",
@@ -2037,7 +2102,7 @@
                 "issues": "https://github.com/mockery/mockery/issues",
                 "source": "https://github.com/mockery/mockery/tree/1.4.3"
             },
-            "install-path": "../mockery/mockery"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/mockery/mockery"
         },
         {
             "name": "monolog/monolog",
@@ -2136,7 +2201,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../monolog/monolog"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/monolog/monolog"
         },
         {
             "name": "myclabs/deep-copy",
@@ -2197,7 +2262,77 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../myclabs/deep-copy"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/myclabs/deep-copy"
+        },
+        {
+            "name": "namshi/jose",
+            "version": "7.2.3",
+            "version_normalized": "7.2.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/namshi/jose.git",
+                "reference": "89a24d7eb3040e285dd5925fcad992378b82bcff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/namshi/jose/zipball/89a24d7eb3040e285dd5925fcad992378b82bcff",
+                "reference": "89a24d7eb3040e285dd5925fcad992378b82bcff",
+                "shasum": ""
+            },
+            "require": {
+                "ext-date": "*",
+                "ext-hash": "*",
+                "ext-json": "*",
+                "ext-pcre": "*",
+                "ext-spl": "*",
+                "php": ">=5.5",
+                "symfony/polyfill-php56": "^1.0"
+            },
+            "require-dev": {
+                "phpseclib/phpseclib": "^2.0",
+                "phpunit/phpunit": "^4.5|^5.0",
+                "satooshi/php-coveralls": "^1.0"
+            },
+            "suggest": {
+                "ext-openssl": "Allows to use OpenSSL as crypto engine.",
+                "phpseclib/phpseclib": "Allows to use Phpseclib as crypto engine, use version ^2.0."
+            },
+            "time": "2016-12-05T07:27:31+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Namshi\\JOSE\\": "src/Namshi/JOSE/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alessandro Nadalin",
+                    "email": "alessandro.nadalin@gmail.com"
+                },
+                {
+                    "name": "Alessandro Cinelli (cirpo)",
+                    "email": "alessandro.cinelli@gmail.com"
+                }
+            ],
+            "description": "JSON Object Signing and Encryption library for PHP.",
+            "keywords": [
+                "JSON Web Signature",
+                "JSON Web Token",
+                "JWS",
+                "json",
+                "jwt",
+                "token"
+            ],
+            "support": {
+                "issues": "https://github.com/namshi/jose/issues",
+                "source": "https://github.com/namshi/jose/tree/master"
+            },
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/namshi/jose"
         },
         {
             "name": "nesbot/carbon",
@@ -2293,7 +2428,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../nesbot/carbon"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/nesbot/carbon"
         },
         {
             "name": "nikic/php-parser",
@@ -2352,7 +2487,7 @@
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
                 "source": "https://github.com/nikic/PHP-Parser/tree/v4.10.4"
             },
-            "install-path": "../nikic/php-parser"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/nikic/php-parser"
         },
         {
             "name": "nunomaduro/collision",
@@ -2443,7 +2578,7 @@
                     "type": "patreon"
                 }
             ],
-            "install-path": "../nunomaduro/collision"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/nunomaduro/collision"
         },
         {
             "name": "opis/closure",
@@ -2511,7 +2646,7 @@
                 "issues": "https://github.com/opis/closure/issues",
                 "source": "https://github.com/opis/closure/tree/3.6.1"
             },
-            "install-path": "../opis/closure"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/opis/closure"
         },
         {
             "name": "phar-io/manifest",
@@ -2574,7 +2709,7 @@
                 "issues": "https://github.com/phar-io/manifest/issues",
                 "source": "https://github.com/phar-io/manifest/tree/master"
             },
-            "install-path": "../phar-io/manifest"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phar-io/manifest"
         },
         {
             "name": "phar-io/version",
@@ -2628,7 +2763,7 @@
                 "issues": "https://github.com/phar-io/version/issues",
                 "source": "https://github.com/phar-io/version/tree/3.1.0"
             },
-            "install-path": "../phar-io/version"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phar-io/version"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -2684,7 +2819,7 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionCommon/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionCommon/tree/2.x"
             },
-            "install-path": "../phpdocumentor/reflection-common"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpdocumentor/reflection-common"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -2743,7 +2878,7 @@
                 "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
                 "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/master"
             },
-            "install-path": "../phpdocumentor/reflection-docblock"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpdocumentor/reflection-docblock"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -2795,7 +2930,7 @@
                 "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
                 "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.4.0"
             },
-            "install-path": "../phpdocumentor/type-resolver"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpdocumentor/type-resolver"
         },
         {
             "name": "phpoption/phpoption",
@@ -2867,7 +3002,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../phpoption/phpoption"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpoption/phpoption"
         },
         {
             "name": "phpspec/prophecy",
@@ -2937,7 +3072,7 @@
                 "issues": "https://github.com/phpspec/prophecy/issues",
                 "source": "https://github.com/phpspec/prophecy/tree/1.13.0"
             },
-            "install-path": "../phpspec/prophecy"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpspec/prophecy"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -3017,7 +3152,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../phpunit/php-code-coverage"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpunit/php-code-coverage"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -3080,7 +3215,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../phpunit/php-file-iterator"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpunit/php-file-iterator"
         },
         {
             "name": "phpunit/php-invoker",
@@ -3146,7 +3281,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../phpunit/php-invoker"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpunit/php-invoker"
         },
         {
             "name": "phpunit/php-text-template",
@@ -3208,7 +3343,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../phpunit/php-text-template"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpunit/php-text-template"
         },
         {
             "name": "phpunit/php-timer",
@@ -3270,7 +3405,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../phpunit/php-timer"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpunit/php-timer"
         },
         {
             "name": "phpunit/phpunit",
@@ -3376,7 +3511,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../phpunit/phpunit"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/phpunit/phpunit"
         },
         {
             "name": "psr/container",
@@ -3427,7 +3562,7 @@
                 "issues": "https://github.com/php-fig/container/issues",
                 "source": "https://github.com/php-fig/container/tree/1.1.1"
             },
-            "install-path": "../psr/container"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psr/container"
         },
         {
             "name": "psr/event-dispatcher",
@@ -3480,7 +3615,7 @@
                 "issues": "https://github.com/php-fig/event-dispatcher/issues",
                 "source": "https://github.com/php-fig/event-dispatcher/tree/1.0.0"
             },
-            "install-path": "../psr/event-dispatcher"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psr/event-dispatcher"
         },
         {
             "name": "psr/http-client",
@@ -3535,7 +3670,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-client/tree/master"
             },
-            "install-path": "../psr/http-client"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psr/http-client"
         },
         {
             "name": "psr/http-message",
@@ -3591,7 +3726,7 @@
             "support": {
                 "source": "https://github.com/php-fig/http-message/tree/master"
             },
-            "install-path": "../psr/http-message"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psr/http-message"
         },
         {
             "name": "psr/log",
@@ -3644,7 +3779,7 @@
             "support": {
                 "source": "https://github.com/php-fig/log/tree/1.1.3"
             },
-            "install-path": "../psr/log"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psr/log"
         },
         {
             "name": "psr/simple-cache",
@@ -3698,7 +3833,7 @@
             "support": {
                 "source": "https://github.com/php-fig/simple-cache/tree/master"
             },
-            "install-path": "../psr/simple-cache"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psr/simple-cache"
         },
         {
             "name": "psy/psysh",
@@ -3777,7 +3912,7 @@
                 "issues": "https://github.com/bobthecow/psysh/issues",
                 "source": "https://github.com/bobthecow/psysh/tree/v0.10.7"
             },
-            "install-path": "../psy/psysh"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/psy/psysh"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -3824,7 +3959,7 @@
                 "issues": "https://github.com/ralouphie/getallheaders/issues",
                 "source": "https://github.com/ralouphie/getallheaders/tree/develop"
             },
-            "install-path": "../ralouphie/getallheaders"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/ralouphie/getallheaders"
         },
         {
             "name": "ramsey/collection",
@@ -3904,7 +4039,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../ramsey/collection"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/ramsey/collection"
         },
         {
             "name": "ramsey/uuid",
@@ -3999,7 +4134,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../ramsey/uuid"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/ramsey/uuid"
         },
         {
             "name": "sebastian/cli-parser",
@@ -4058,7 +4193,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/cli-parser"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/cli-parser"
         },
         {
             "name": "sebastian/code-unit",
@@ -4117,7 +4252,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/code-unit"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/code-unit"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
@@ -4175,7 +4310,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/code-unit-reverse-lookup"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/code-unit-reverse-lookup"
         },
         {
             "name": "sebastian/comparator",
@@ -4252,7 +4387,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/comparator"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/comparator"
         },
         {
             "name": "sebastian/complexity",
@@ -4312,7 +4447,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/complexity"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/complexity"
         },
         {
             "name": "sebastian/diff",
@@ -4381,7 +4516,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/diff"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/diff"
         },
         {
             "name": "sebastian/environment",
@@ -4447,7 +4582,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/environment"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/environment"
         },
         {
             "name": "sebastian/exporter",
@@ -4527,7 +4662,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/exporter"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/exporter"
         },
         {
             "name": "sebastian/global-state",
@@ -4594,7 +4729,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/global-state"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/global-state"
         },
         {
             "name": "sebastian/lines-of-code",
@@ -4654,7 +4789,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/lines-of-code"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/lines-of-code"
         },
         {
             "name": "sebastian/object-enumerator",
@@ -4714,7 +4849,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/object-enumerator"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/object-enumerator"
         },
         {
             "name": "sebastian/object-reflector",
@@ -4772,7 +4907,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/object-reflector"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/object-reflector"
         },
         {
             "name": "sebastian/recursion-context",
@@ -4838,7 +4973,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/recursion-context"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/recursion-context"
         },
         {
             "name": "sebastian/resource-operations",
@@ -4896,7 +5031,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/resource-operations"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/resource-operations"
         },
         {
             "name": "sebastian/type",
@@ -4955,7 +5090,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/type"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/type"
         },
         {
             "name": "sebastian/version",
@@ -5011,7 +5146,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../sebastian/version"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/sebastian/version"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -5089,7 +5224,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../swiftmailer/swiftmailer"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/swiftmailer/swiftmailer"
         },
         {
             "name": "symfony/console",
@@ -5189,7 +5324,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/console"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/console"
         },
         {
             "name": "symfony/css-selector",
@@ -5257,7 +5392,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/css-selector"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/css-selector"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -5327,7 +5462,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/deprecation-contracts"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/deprecation-contracts"
         },
         {
             "name": "symfony/error-handler",
@@ -5399,7 +5534,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/error-handler"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/error-handler"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -5487,7 +5622,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/event-dispatcher"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/event-dispatcher"
         },
         {
             "name": "symfony/event-dispatcher-contracts",
@@ -5569,7 +5704,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/event-dispatcher-contracts"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/event-dispatcher-contracts"
         },
         {
             "name": "symfony/finder",
@@ -5633,7 +5768,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/finder"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/finder"
         },
         {
             "name": "symfony/http-client-contracts",
@@ -5715,7 +5850,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/http-client-contracts"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/http-client-contracts"
         },
         {
             "name": "symfony/http-foundation",
@@ -5791,7 +5926,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/http-foundation"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/http-foundation"
         },
         {
             "name": "symfony/http-kernel",
@@ -5906,7 +6041,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/http-kernel"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/http-kernel"
         },
         {
             "name": "symfony/mime",
@@ -5992,7 +6127,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/mime"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/mime"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -6074,7 +6209,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-ctype"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-ctype"
         },
         {
             "name": "symfony/polyfill-iconv",
@@ -6157,7 +6292,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-iconv"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-iconv"
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
@@ -6241,7 +6376,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-intl-grapheme"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-intl-grapheme"
         },
         {
             "name": "symfony/polyfill-intl-idn",
@@ -6331,7 +6466,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-intl-idn"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-intl-idn"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
@@ -6418,7 +6553,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-intl-normalizer"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-intl-normalizer"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -6501,7 +6636,77 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-mbstring"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-mbstring"
+        },
+        {
+            "name": "symfony/polyfill-php56",
+            "version": "v1.20.0",
+            "version_normalized": "1.20.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-php56.git",
+                "reference": "54b8cd7e6c1643d78d011f3be89f3ef1f9f4c675"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-php56/zipball/54b8cd7e6c1643d78d011f3be89f3ef1f9f4c675",
+                "reference": "54b8cd7e6c1643d78d011f3be89f3ef1f9f4c675",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "time": "2020-10-23T14:02:19+00:00",
+            "type": "metapackage",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.20-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill backporting some PHP 5.6+ features to lower PHP versions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php56/tree/v1.20.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": null
         },
         {
             "name": "symfony/polyfill-php72",
@@ -6580,7 +6785,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-php72"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-php72"
         },
         {
             "name": "symfony/polyfill-php73",
@@ -6662,7 +6867,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-php73"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-php73"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -6748,7 +6953,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/polyfill-php80"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/polyfill-php80"
         },
         {
             "name": "symfony/process",
@@ -6813,7 +7018,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/process"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/process"
         },
         {
             "name": "symfony/routing",
@@ -6906,7 +7111,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/routing"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/routing"
         },
         {
             "name": "symfony/service-contracts",
@@ -6988,7 +7193,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/service-contracts"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/service-contracts"
         },
         {
             "name": "symfony/string",
@@ -7074,7 +7279,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/string"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/string"
         },
         {
             "name": "symfony/translation",
@@ -7170,7 +7375,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/translation"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/translation"
         },
         {
             "name": "symfony/translation-contracts",
@@ -7251,7 +7456,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/translation-contracts"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/translation-contracts"
         },
         {
             "name": "symfony/var-dumper",
@@ -7342,7 +7547,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../symfony/var-dumper"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/symfony/var-dumper"
         },
         {
             "name": "theseer/tokenizer",
@@ -7395,7 +7600,7 @@
                     "type": "github"
                 }
             ],
-            "install-path": "../theseer/tokenizer"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/theseer/tokenizer"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -7451,7 +7656,96 @@
                 "issues": "https://github.com/tijsverkoyen/CssToInlineStyles/issues",
                 "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/2.2.3"
             },
-            "install-path": "../tijsverkoyen/css-to-inline-styles"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/tijsverkoyen/css-to-inline-styles"
+        },
+        {
+            "name": "tymon/jwt-auth",
+            "version": "dev-develop",
+            "version_normalized": "dev-develop",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymondesigns/jwt-auth.git",
+                "reference": "ab00f2d7cce5f043067aef7849cdc792de2df635"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymondesigns/jwt-auth/zipball/ab00f2d7cce5f043067aef7849cdc792de2df635",
+                "reference": "ab00f2d7cce5f043067aef7849cdc792de2df635",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/auth": "^5.2|^6|^7|^8",
+                "illuminate/contracts": "^5.2|^6|^7|^8",
+                "illuminate/http": "^5.2|^6|^7|^8",
+                "illuminate/support": "^5.2|^6|^7|^8",
+                "lcobucci/jwt": "<3.4",
+                "namshi/jose": "^7.0",
+                "nesbot/carbon": "^1.0|^2.0",
+                "php": "^7.2|^8.0"
+            },
+            "require-dev": {
+                "illuminate/console": "^5.2|^6|^7|^8",
+                "illuminate/database": "^5.2|^6|^7|^8",
+                "illuminate/routing": "^5.2|^6|^7|^8",
+                "mockery/mockery": ">=0.9.9",
+                "phpunit/phpunit": "^8.5|^9.4",
+                "yoast/phpunit-polyfills": "^0.2.0"
+            },
+            "time": "2021-02-02T14:44:28+00:00",
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-develop": "1.0-dev"
+                },
+                "laravel": {
+                    "aliases": {
+                        "JWTAuth": "Tymon\\JWTAuth\\Facades\\JWTAuth",
+                        "JWTFactory": "Tymon\\JWTAuth\\Facades\\JWTFactory"
+                    },
+                    "providers": [
+                        "Tymon\\JWTAuth\\Providers\\LaravelServiceProvider"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Tymon\\JWTAuth\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sean Tymon",
+                    "email": "tymon148@gmail.com",
+                    "homepage": "https://tymon.xyz",
+                    "role": "Developer"
+                }
+            ],
+            "description": "JSON Web Token Authentication for Laravel and Lumen",
+            "homepage": "https://github.com/tymondesigns/jwt-auth",
+            "keywords": [
+                "Authentication",
+                "JSON Web Token",
+                "auth",
+                "jwt",
+                "laravel"
+            ],
+            "support": {
+                "issues": "https://github.com/tymondesigns/jwt-auth/issues",
+                "source": "https://github.com/tymondesigns/jwt-auth"
+            },
+            "funding": [
+                {
+                    "url": "https://www.patreon.com/seantymon",
+                    "type": "patreon"
+                }
+            ],
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/tymon/jwt-auth"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -7534,7 +7828,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../vlucas/phpdotenv"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/vlucas/phpdotenv"
         },
         {
             "name": "voku/portable-ascii",
@@ -7611,7 +7905,7 @@
                     "type": "tidelift"
                 }
             ],
-            "install-path": "../voku/portable-ascii"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/voku/portable-ascii"
         },
         {
             "name": "webmozart/assert",
@@ -7672,7 +7966,7 @@
                 "issues": "https://github.com/webmozarts/assert/issues",
                 "source": "https://github.com/webmozarts/assert/tree/1.10.0"
             },
-            "install-path": "../webmozart/assert"
+            "install-path": "../../../../Laravel/app_locadora_carros/vendor/webmozart/assert"
         }
     ],
     "dev": true,
